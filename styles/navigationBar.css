@@ -1,0 +1,39 @@
+/* Naviagation bar stylesheet */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navigationBar {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 10px;
+}
+
+.logo a{
+    text-decoration: none;
+    color: white;
+}
+
+.navigationLinks {
+    list-style-type: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 150px;
+}
+
+.navigationLink {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
