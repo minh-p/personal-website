@@ -3,10 +3,10 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 .navigationBar {
-    background-color: black;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -20,6 +20,7 @@
 .logo a{
     text-decoration: none;
     color: white;
+    font-size: 28px;
 }
 
 .navigationLinks {
@@ -30,10 +31,30 @@
     align-items: center;
     margin-right: 10px;
     margin-left: 150px;
+
+    font-size: 14px;
 }
 
 .navigationLink {
     color: white;
     text-decoration: none;
-    margin-left: 10px;
+    margin-left: 2.5vh;
+}
+
+#introductionSection {
+    background-color: black;
+    height: 100%;
+}
+
+#introductionDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#introductionDiv h1 {
+    color: white;
+    text-align: center;
+    margin-top: 35vh;
+    padding: 24px;
+    border: 3px solid grey;
 }
