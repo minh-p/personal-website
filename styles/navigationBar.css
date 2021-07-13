@@ -1,11 +1,5 @@
 /* Naviagation bar stylesheet */
 
-html, * {
-    margin: 0;
-    padding: 0;
-    background-color: black;
-}
-
 .navigationBar {
     display: flex;
     flex-direction: row;
