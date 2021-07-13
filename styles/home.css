@@ -1,0 +1,46 @@
+html, * {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#introductionSection {
+    background-color: black;
+    height: 100%;
+}
+
+#introductionWordsDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#introductionWordsDiv h1 {
+    color: white;
+    text-align: center;
+    margin-top: 35vh;
+    padding: 24px;
+    border: 3px solid grey;
+}
+
+#profilesLinks {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#profilesLinks a {
+    margin-right: 5px;
+}
+
+.profileImage {
+    border-radius: 20%;
+    background-color: #191919;
+    border: 2px solid grey;
+}
+
+#discordImage {
+    padding-left:2.5px;
+    padding-right:2.5px;
+}
