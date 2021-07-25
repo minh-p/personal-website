@@ -8,10 +8,11 @@
 .navigationBar {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background-color: black;
     position: fixed;
+    width: 100%;
 }
 
 .navigationBarSeparator {
