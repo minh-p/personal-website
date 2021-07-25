@@ -2,9 +2,9 @@
  * Home section stylesheet
 */
 
-#introductionSection {
+#homeSection {
     background-color: black;
-    height: 96vh;
+    height: 100vh;
 }
 
 #introductionWordsDiv {
@@ -15,9 +15,9 @@
 #introductionWordsDiv h1 {
     color: white;
     text-align: center;
-    margin-top: 35vh;
     padding: 24px;
     border: 3px solid grey;
+    margin-top: 36vh;
 }
 
 #profilesLinks {
