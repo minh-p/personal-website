@@ -35,7 +35,7 @@
 .profileImage {
     border-radius: 20%;
     background-color: #191919;
-    border: 2px solid grey;
+     order: 2px solid grey;
 }
 
 #discordImage {
