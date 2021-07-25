@@ -2,7 +2,8 @@
 Second attempt at a good portfolio.
 
 ## Currently working on:
-Make navigation bar stick on every section.
+Make navigation buttons work with the existing sections.
 
 ## Dones:
 About/Introduction section.
+Make navigation bar stick on every section.
