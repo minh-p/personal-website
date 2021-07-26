@@ -4,12 +4,14 @@
 
 #homeSection {
     background-color: black;
-    height: 1000px;
+    height: 900px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
 }
 
 #introductionWordsDiv {
-    display: flex;
-    justify-content: center;
+    margin-top: 36vh;
 }
 
 #introductionWordsDiv h1 {
@@ -17,7 +19,6 @@
     text-align: center;
     padding: 24px;
     border: 3px solid grey;
-    margin-top: 36vh;
 }
 
 #profilesLinks {
