@@ -4,7 +4,7 @@
 
 #homeSection {
     background-color: black;
-    height: 900px;
+    height: 100vh;
     display: flex;
     flex-flow: column wrap;
     align-items: center;
