@@ -26,7 +26,7 @@ const navigationLinks = document.getElementsByClassName("navigationLink");
 // Set up navigationLinks click event.
 for (let i = 0; i < navigationLinks.length; i++) {
     navigationLinks[i].onclick = function() {
-        scroll(getSectionFromNavigationLink(navigationLinks[i]));
+        // scroll(getSectionFromNavigationLink(navigationLinks[i]));
     }
 }
 
