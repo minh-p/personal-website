@@ -2,11 +2,11 @@
  * Experience info showing.
 */
 
-const experiencesButtons = document.getElementsByClassName("experiencesButton");
-
 /*
  * experiencesButtons' ids will be the keys to the experienceInfo's to display
  */
+
+const experiencesButtons = document.getElementsByClassName("experiencesButton");
 
 for (let i = 0; i < experiencesButtons.length; i++) {
     const button  = experiencesButtons[i];
