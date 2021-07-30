@@ -1,0 +1,57 @@
+/*
+ * Experiences section.
+*/
+
+#experiences {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#experiencesDiv {
+    text-align: center;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+#experiencesDiv h4{
+    color: white;
+    border-top: 2.5px solid grey;
+    padding: 5px;
+    width: 450px;
+}
+
+#experiencesListingDiv {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 5px;
+    width: 65vw;
+}
+
+.experiencesButton {
+    background-color: none;
+    color: white;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+}
+
+.experienceIcon {
+    width: 40px;
+    height: 40px;
+}
+
+#experiencesInfo {
+    color: white;
+    width: 450px;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+    padding: 20px
+}
