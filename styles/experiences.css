@@ -14,13 +14,15 @@
     justify-content: center;
     flex-flow: column wrap;
     align-items: center;
+    max-height: 55vh;
+    min-height: 33vh;
 }
 
 #experiencesDiv h4{
     color: white;
     border-top: 2.5px solid grey;
     padding: 5px;
-    width: 450px;
+    width: 55vw;
 }
 
 #experiencesListingDiv {
@@ -46,9 +48,9 @@
 
 #experiencesInfo {
     color: white;
-    width: 450px;
     height: auto;
-    max-height: 250px;
+    max-width: 55vw;
+    min-width: 33vw;
     overflow-x: hidden;
     overflow-y: auto;
     text-align: center;

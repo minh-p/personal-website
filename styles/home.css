@@ -6,12 +6,17 @@
     background-color: black;
     height: 100vh;
     display: flex;
+    justify-content: center;
     flex-flow: column wrap;
     align-items: center;
 }
 
 #introductionWordsDiv {
-    margin-top: 36vh;
+    margin-top: 18vh;
+    max-width: 80vw;
+    min-width: 30vw;
+    max-height: 55vh;
+    min-height: 33vh;
 }
 
 #introductionWordsDiv h1 {
