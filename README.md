@@ -3,6 +3,7 @@ Second attempt at a good portfolio.
 
 ## Currently working on:
 Experience Info page to not look weird.
+Add more experience infos.
 
 ## Dones:
 About/Introduction section.
