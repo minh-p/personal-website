@@ -4,12 +4,10 @@
 
 #experiences {
     height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 #experiencesDiv {
+    margin-top: 30vh;
     text-align: center;
     font-size: 20px;
     display: flex;
