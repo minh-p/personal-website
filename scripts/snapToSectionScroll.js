@@ -11,7 +11,7 @@ const sections = document.getElementsByTagName("section");
 let sectionsScrollYPositions = [];
 
 function setSectionsScrollYPositions() {
-    setSectionsScrollYPositions = [];
+    sectionsScrollYPositions = [];
 
     // will increase with them sections
     let sectionsScrollHeight = -sections[0].scrollHeight;
@@ -41,6 +41,7 @@ function getNearestSectionScrollYPosition(currentScrollY) {
 }
 
 setSectionsScrollYPositions();
+window.addEventListener("resize", setSectionsScrollYPositions);
 
 // make a delay for snapping to section.
 let timeoutId;
