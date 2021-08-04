@@ -6,7 +6,7 @@
  * experiencesButtons' ids will be the keys to the experienceInfo's to display
  */
 
-import experienceInfos from './experienceInfos.js';
+import experienceInfos from './modules/experienceInfos.js';
 
 const experiencesButtons = document.getElementsByClassName("experiencesButton");
 const experienceInfoParagraph = document.getElementById("experiencesInfo");
