@@ -2,7 +2,7 @@
 Second attempt at a good personal website.
 
 ## Currently working on:
-Snap to scroll section (feature not as intended fix)
+None
 
 ## Dones:
 About/Introduction section.
@@ -15,3 +15,5 @@ Experience Info page to not look weird.
 Add more experience infos.
 
 Responsiveness of divs
+
+Snap to scroll section (feature not as intended fix)
