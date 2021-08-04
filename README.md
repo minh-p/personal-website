@@ -2,7 +2,7 @@
 Second attempt at a good personal website.
 
 ## Currently working on:
-Snap to scroll section
+Snap to scroll section (feature not as intended fix)
 
 ## Dones:
 About/Introduction section.
