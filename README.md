@@ -2,7 +2,7 @@
 Second attempt at a good personal website.
 
 ## Currently working on:
-None
+Fixing centering on mobile devices.
 
 ## Dones:
 About/Introduction section.
